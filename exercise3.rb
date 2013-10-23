@@ -8,3 +8,5 @@ tip = gets.chomp
   else
     puts "Get out of my restaurant cheapskate!!!"
 end
+
+
